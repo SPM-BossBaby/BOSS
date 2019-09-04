@@ -7,6 +7,19 @@
 |   **Draft Dashboard UI**  |   |   |   |
 |   **Bootstrap Layout UI** |   |   |   |
 |   **Laravel Framework**   |   |   |   |
+|   **Start Bidding Round** |   |   |   |
+|   **End Bidding Round**   |   |   |   |
+
+
+####Sprint 2
+|  Name  |   Status |   Start Date  |    End Date    |
+| - | - | - | - |
+|   **View Modules UI**    |   |   |   |
+|   **Filter Modules**   |   |   |   |
+|   **Select Modules**  |   |   |   |
+|   **Bid Modules** |   |   |   |
+|   **Remove Modules from  Cart**   |   |   |   |
+|   **Clearing Logic** |   |   |   |
 
 
 ##Pair Programming
