@@ -27,7 +27,7 @@
 | Developer 1 | Developer 2 |
 | ----------- | ----------- |
 | Xin Pin     | @nicolaswee     |
-| Trevor      | Xuan Lin    |
+| Trevor      | @xuanlinn   |
 | Jason       | Nicolas     |
 
 #### Sprint 2                    
@@ -37,21 +37,21 @@
 | Jason       | Xuan Lin    |
 | Nicolas     | Xin Pin     |
 
-####Sprint 3          
+#### Sprint 3          
 | Developer 1 | Developer 2 |
 | ----------- | ----------- |
 | Jason       | Trevor      |
 | Nicolas     | Xuan Lin    |
 | Xin Pin     | Trevor      |
 
-####Sprint 4 
+#### Sprint 4 
 | Developer 1 | Developer 2 |
 | ----------- | ----------- |
 | Nicolas     | Jason       |
 | Xin Pin     | Xuan Lin    |
 | Trevor      | Jason       |
 
-####Sprint 5    
+#### Sprint 5    
 | Developer 1 | Developer 2 |
 | ----------- | ----------- |
 | Xin Pin     | Xuan Lin    |
