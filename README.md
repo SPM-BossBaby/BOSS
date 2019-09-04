@@ -1,5 +1,5 @@
 #Overall Schedule
-####Sprint 1
+##Sprint 1
 | Name                    | Status | Start Date | End Date |
 | ----------------------- | ------ | ---------- | -------- |
 | **Login UI**            |        |            |          |
@@ -9,7 +9,7 @@
 | **Laravel Framework**   |        |            |          |
 | **Start Bidding Round** |        |            |          |
 | **End Bidding Round**   |        |            |          |
-
+<!-- 
 
 ####Sprint 2
 | Name                          | Status | Start Date | End Date |
@@ -56,7 +56,7 @@
 | ----------- | ----------- |
 | Xin Pin     | Xuan Lin    |
 | Trevor      | Nicolas     |
-| Jason       | Xuan Lin    |
+| Jason       | Xuan Lin    | -->
 
 
 
