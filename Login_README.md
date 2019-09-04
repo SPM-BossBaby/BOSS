@@ -11,18 +11,18 @@
 
 ## Tickets
 ### Task
-| Name | Status | Start Date | End Date | Developer 1 | Developer 2 | QA |
-| - | - | - | - | - | - | - |
-| [Login] Logo | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  |  |  |  |
-| [Login] Username and Password fields | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  |  |  |  |
-| [Login] Submit button | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  |  |  |  |
-| [Login] Authentication API | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  |  |  |  |
-| [Login] Implement Authentication API | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  |  |  |  |
+| Name                                 | Status                                                 | Start Date | End Date | Developer 1 | Developer 2 | QA  |
+| ------------------------------------ | ------------------------------------------------------ | ---------- | -------- | ----------- | ----------- | --- |
+| [Login] Logo                         | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |            |          |             |             |     |
+| [Login] Username and Password fields | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |            |          |             |             |     |
+| [Login] Submit button                | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |            |          |             |             |     |
+| [Login] Authentication API           | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |            |          |             |             |     |
+| [Login] Implement Authentication API | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |            |          |             |             |     |
 
 ### Bug
-| Name | Status | Start Date | End Date | Developer 1 | Developer 2 | QA |
-| - | - | - | - | - | - | - |
-|  |  |  |  |  |  |  |
+| Name | Status | Start Date | End Date | Developer 1 | Developer 2 | QA  |
+| ---- | ------ | ---------- | -------- | ----------- | ----------- | --- |
+|      |        |            |          |             |             |     |
 
 ## Background
 - Login
@@ -47,6 +47,8 @@
 ## Assignments
 - Project Manager:
 - Pair programming:
-  | Driver | Observer |
-  | - | - |
-  
+  | Driver  | Observer |
+  | ------- | -------- |
+  | Xin Pin | Nicolas  |
+  | Trevor  | Xuan Lin |
+  | Jason   | Nicolas  |
