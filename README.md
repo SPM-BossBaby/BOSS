@@ -2,7 +2,7 @@
 ## Sprint 1
 | Name                    | Status | Start Date | End Date |
 | ----------------------- | ------ | ---------- | -------- |
-| Login UI            |        |            |          |
+| Login UI                |        |            |          |
 | **Login Backend**       |        |            |          |
 | **Draft Dashboard UI**  |        |            |          |
 | **Bootstrap Layout UI** |        |            |          |
@@ -26,8 +26,8 @@
 #### Sprint 1
 | Developer 1 | Developer 2 |
 | ----------- | ----------- |
-| Xin Pin     | @nicolaswee     |
-| Trevor      | @xuanlinn   |
+| Xin Pin     | Nicolas     |
+| Trevor      | Xuan Lin    |
 | Jason       | Nicolas     |
 
 #### Sprint 2                    
