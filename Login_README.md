@@ -41,6 +41,11 @@
 ## Mockup
 <img src="Login.png" width="500">
 
+
+## Icons
+<img src="img\BIOS.png" width="100">
+<img src="img\MU.png" width="100">
+
 ## Flow
 ## Flow
 
