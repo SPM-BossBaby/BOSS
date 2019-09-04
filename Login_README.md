@@ -13,11 +13,11 @@
 ### Task
 | Name | Status | Start Date | End Date | Developer 1 | Developer 2 | QA |
 | - | - | - | - | - | - | - |
-| [Login] Logo | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  |  |  |  |
-| [Login] Username and Password fields | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  |  |  |  |
-| [Login] Submit button | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  |  |  |  |
-| [Login] Authentication API | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  |  |  |  |
-| [Login] Implement Authentication API | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  |  |  |  |
+| [Login] Logo | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  | Xin Pin | Nicolas |  |
+| [Login] Username and Password fields | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  | Trevor | Xuan Lin |  |
+| [Login] Submit button | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  | Trevor | Xuan Lin |  |
+| [Login] Authentication API | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  | Xin Pin | Nicolas |  |
+| [Login] Implement Authentication API | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  | Jason | Nicolas |  |
 
 ### Bug
 | Name | Status | Start Date | End Date | Developer 1 | Developer 2 | QA |
