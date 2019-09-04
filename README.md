@@ -1,17 +1,17 @@
 # Overall Schedule
-<!-- ##Sprint 1 -->
+## Sprint 1
 | Name                    | Status | Start Date | End Date |
 | ----------------------- | ------ | ---------- | -------- |
 | Login UI            |        |            |          |
-<!-- | **Login Backend**       |        |            |          |
+| **Login Backend**       |        |            |          |
 | **Draft Dashboard UI**  |        |            |          |
 | **Bootstrap Layout UI** |        |            |          |
 | **Laravel Framework**   |        |            |          |
 | **Start Bidding Round** |        |            |          |
-| **End Bidding Round**   |        |            |          | -->
-<!-- 
+| **End Bidding Round**   |        |            |          |
 
-####Sprint 2
+
+#### Sprint 2
 | Name                          | Status | Start Date | End Date |
 | ----------------------------- | ------ | ---------- | -------- |
 | **View Modules UI**           |        |            |          |
@@ -22,15 +22,15 @@
 | **Clearing Logic**            |        |            |          |
 
 
-##Pair Programming
-####Sprint 1
+## Pair Programming
+#### Sprint 1
 | Developer 1 | Developer 2 |
 | ----------- | ----------- |
-| Xin Pin     | Nicolas     |
+| Xin Pin     | @nicolaswee     |
 | Trevor      | Xuan Lin    |
 | Jason       | Nicolas     |
 
-####Sprint 2                    
+#### Sprint 2                    
 | Developer 1 | Developer 2 |
 | ----------- | ----------- |
 | Trevor      | Xin Pin     |
@@ -56,7 +56,7 @@
 | ----------- | ----------- |
 | Xin Pin     | Xuan Lin    |
 | Trevor      | Nicolas     |
-| Jason       | Xuan Lin    | -->
+| Jason       | Xuan Lin    |
 
 
 
