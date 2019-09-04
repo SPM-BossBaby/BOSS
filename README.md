@@ -2,13 +2,13 @@
 ##Sprint 1
 | Name                    | Status | Start Date | End Date |
 | ----------------------- | ------ | ---------- | -------- |
-| **Login UI**            |        |            |          |
-| **Login Backend**       |        |            |          |
+| Login UI            |        |            |          |
+<!-- | **Login Backend**       |        |            |          |
 | **Draft Dashboard UI**  |        |            |          |
 | **Bootstrap Layout UI** |        |            |          |
 | **Laravel Framework**   |        |            |          |
 | **Start Bidding Round** |        |            |          |
-| **End Bidding Round**   |        |            |          |
+| **End Bidding Round**   |        |            |          | -->
 <!-- 
 
 ####Sprint 2
