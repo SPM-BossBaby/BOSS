@@ -1,4 +1,4 @@
-#Overall Schedule
+# Overall Schedule
 <!-- ##Sprint 1 -->
 | Name                    | Status | Start Date | End Date |
 | ----------------------- | ------ | ---------- | -------- |
