@@ -25,10 +25,16 @@
 |  |  |  |  |  |  |  |
 
 ## Background
- - Login
-   - A student will log in with his/her email ID and password.
-   - Upon success, the student should be able to see the balance e$ along with a welcome message.
-   - Upon failure, the app outputs a proper error message and requests the user to login again.
+- Login
+  - Student
+    - A student will log in with his/her email ID and password.
+    - Upon success, the student should be able to see the balance e$ along with a welcome message.
+    - Upon failure, the app outputs a proper error message and requests the user to login again.
+  - Admin
+    - An administrator will log in with the username "admin" and password
+    - The admin will login from the same login page as student users.
+    - (inference) An admin will log in into a dashboard
+    - Failure will follow the same case as Student
 
 ## Data Flow
 
