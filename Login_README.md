@@ -43,3 +43,10 @@
 
 ## Flow
 ## Flow
+
+## Assignments
+- Project Manager:
+- Pair programming:
+  | Driver | Observer |
+  | - | - |
+  
