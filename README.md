@@ -1,5 +1,5 @@
-#Overall Schedule
-##Sprint 1
+<!-- #Overall Schedule
+##Sprint 1 -->
 | Name                    | Status | Start Date | End Date |
 | ----------------------- | ------ | ---------- | -------- |
 | Login UI            |        |            |          |
