@@ -1,4 +1,13 @@
-# BOSS Schedule
+#Overall Schedule
+####Sprint 1
+|  Name  |   Status |   Start Date  |    End Date    |
+| - | - | - | - |
+|   **Login UI**    |   |   |   |
+|   **Login Backend**   |   |   |   |
+|   **Draft Dashboard UI**  |   |   |   |
+|   **Bootstrap Layout UI** |   |   |   |
+|   **Laravel Framework**   |   |   |   |
+
 
 ##Pair Programming
 ####Sprint 1
