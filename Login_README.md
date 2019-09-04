@@ -39,7 +39,7 @@
 ## Data Flow
 
 ## Mockup
-<img src="Login.png" width="500">
+<img src="img\Login.png" width="500">
 <img src="img\Login_Fail.png" width="500">
 <img src="img\Login_Page.gif" width="500">
 
