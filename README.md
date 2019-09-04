@@ -1,31 +1,36 @@
 # BOSS Schedule
 
 ##Pair Programming
-| Sprint 1     |               |
+####Sprint 1
+| Developer 1  |   Developer 2 |
 | ------------ |    -------    |  
 |   Xin Pin    |    Nicolas    |  
 |   Trevor     |    Xuan Lin   |
 |   Jason      |    Nicolas    |
 
-| Sprint 2     |               |
+####Sprint 2                    
+| Developer 1  |   Developer 2 |
 | ------------ |    -------    |  
 |   Trevor     |    Xin Pin    |  
 |   Jason      |    Xuan Lin   |
 |   Nicolas    |    Xin Pin    |
 
-| Sprint 3     |               |
+####Sprint 3          
+| Developer 1  |   Developer 2 |
 | ------------ |    -------    |  
 |   Jason      |    Trevor     |  
 |   Nicolas    |    Xuan Lin   |
 |   Xin Pin    |    Trevor     |
 
-| Sprint 4     |               |
+####Sprint 4 
+| Developer 1  |   Developer 2 |
 | ------------ |    -------    |  
 |   Nicolas    |    Jason      |  
 |   Xin Pin    |    Xuan Lin   |
 |   Trevor     |    Jason      |
 
-| Sprint 5     |               |
+####Sprint 5    
+| Developer 1  |   Developer 2 |
 | ------------ |    -------    |  
 |   Xin Pin    |    Xuan Lin   |  
 |   Trevor     |    Nicolas    |
