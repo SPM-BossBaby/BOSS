@@ -2,56 +2,63 @@
 <html lang="en">
 
 <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>BIOS Login</title>
+  <meta charset="utf-8">
+  <!-- Bootstrap required meta tags -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" 
+    crossorigin="anonymous">
+  <!-- Bootstrap Script -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+  <!-- Font Script -->
+  <script src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
 
-    <!-- Bootstrap CSS -->
-    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
-    <link rel="stylesheet" href="login.c ss">
-    <title>BIOS Login</title>
+  <!-- CSS stylesheet -->
+  <link rel="stylesheet" href="login.css">
+
+  
 </head>
+
 <body>
+  <div class="modal-dialog text-center">
+    <div class="col-sm-8 main-section">
+      <div class="modal-content">
 
-
-    <div class="wrapper">
-        <form class="login">
-          <p class="title">Log in</p>
-          <input type="text" placeholder="Username" autofocus/>
-          <i class="fa fa-user"></i>
-          <input type="password" placeholder="Password" />
-          <i class="fa fa-key"></i>
-          <a href="#">Forgot your password?</a>
-          <button>
-            <i class="spinner"></i>
-            <span class="state">Log in</span>
-          </button>
+        
+        <div class="col-12">
+          <img src="img/bios-logo.png" class="img-fluid" alt="MU BIOS" id="bios-logo">
+        </div>
+        
+        <form class="col-12" action="">
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Enter Username" id="username">
+          </div>
+          <div class="form-group">
+            <input type="password" class="form-control" placeholder="Enter Password" id="password">
+          </div>
+          <button type="submit" class = "btn"><i class="fas fa-sign-in-alt"></i>Login</button>
         </form>
-        <footer><a target="blank" href="http://boss.smu.edu.sg/">BOSS</a></footer>
-        </p>
-      </div>
 
-    <script>
-        var working = false;
-        $('.login').on('submit', function(e) {
-        e.preventDefault();
-        if (working) return;
-        working = true;
-        var $this = $(this),
-            $state = $this.find('button > .state');
-        $this.addClass('loading');
-        $state.html('Authenticating');
-        setTimeout(function() {
-            $this.addClass('ok');
-            $state.html('Welcome back!');
-            setTimeout(function() {
-            $state.html('Log in');
-            $this.removeClass('ok loading');
-            working = false;
-            }, 4000);
-        }, 3000);
-        });
-    </script>
+        <div class="col-12 forgot">
+          <a href="#">Forgot Password?</a>
+        </div>
+
+
+       </div> <!--End of modal content -->
+    </div>
+  </div>
+
 
 </body>
+
 </html>
