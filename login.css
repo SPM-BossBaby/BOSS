@@ -2,8 +2,8 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    /* background: url('https://source.unsplash.com/random') no-repeat center center fixed; */
-    background-color: #E0D5CC;
+    background: url('https://source.unsplash.com/daily') no-repeat center center fixed;
+    /* background-color: #E0D5CC; */
     background-size: cover;
 }
 
@@ -17,6 +17,7 @@ body {
     background-color: 'ffffff';
     opacity: 0.95;
     padding: 10px;
+    border-radius: 10px;
 }
 
 #bios-logo {
@@ -26,4 +27,39 @@ body {
 #username {
     margin-bottom: 0px;
     padding-bottom: 0px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group input {
+    height: 42px;
+    border-radius: 5px;
+    border: gray solid 1px;
+}
+
+
+
+#button {
+    border: black 3px solid;
+    width: 100%;
+    background-color: rgb(177, 177, 177);
+    font-size: 19px;
+    padding: 8px ;
+    opacity: 1;
+}
+
+#button:hover, #button:focus {
+    background-color: #53596b!important;
+    color: white;
+}
+
+#login-icon {
+    font-size: 20px;
+    margin-right: 7px;
+}
+
+.forgot { 
+    margin-top: 10px;
 }
