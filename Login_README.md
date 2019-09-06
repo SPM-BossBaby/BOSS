@@ -39,17 +39,17 @@
 ## Data Flow
 
 ## Mockup
-Login Page:
+Login Page:<br>
 <img src="mockups\login.png" width="500">
 <img src="mockups\login_fail.png" width="500">
 <img src="mockups\login.gif" width="500">
-Landing Page:
+<br>Landing Page:<br>
 <img src="mockups\landing.png" width="500">
 
 ## Icons
-For login page:
+For login page: <br>
 <img src="icons\bios.png" width="100"><img src="icons\mu.png" width="100">
-For all other pages:
+<br>For all other pages:<br>
 <img src="icons\MUbios.png" width="100">
 
 ## Flow
