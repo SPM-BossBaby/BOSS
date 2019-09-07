@@ -80,3 +80,10 @@
 | Trevor      | Nicolas     |
 | Jason       | Xuan Lin    |
 
+## Risk Plan
+| S/N | Risk Statement | Consequence | Likelihood (H/M/L) | Impact (H/M/L) | Level (Derived) | Mitigation Strategy &/or Contingency Plan |
+| - | - | - | - | - | - | - |
+| 1 | Team unfamiliar with development platforms | 1. May delay project due to incorrect estimates <br> 2. Low quality due to more bugs | H | M | A | Familiarise within one week by <br> 1. watching videos or <br> 2. trying out the platforms beforehand |
+| 2 | Members fell sick or injured | 1. May delay project due to absence of resource | M | L | C | Plan backup resource/s at start of iteration. |
+| 3 | Design issues while testing | 1. May majorly disrupt project flow due to oversight in design <br> 2. Low quality due to missing function | L | H | B | Immediately inform designer and implement new design at next iteration. Move to next non dependent task in the iteration. |
+| 4 |Coding issues while testing | 1. May delay project due to incorrect estimates  | H | M | A | 1. If next iteration depends on the function, continue on backflow. <br> 2. Else, continue after finishing tasks in next iteration. |
