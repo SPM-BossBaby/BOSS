@@ -53,7 +53,13 @@ For login page:
 <br><img src="icons\MUbios.png" width="100">   
 
 ## Flow
-## Flow
+1. User enters username and password into login page.
+2. User checks "Remember me" checkbox.
+3. User clicks "Login" button.
+   1. The username and password is authenticated through JSON web service.
+   2. If unsuccessful, show "Please enter a valid username and password.".
+   3. If successful, store username in session variable and direct to landing page.
+
 
 ## Assignments
 - Project Manager:
