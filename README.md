@@ -28,7 +28,7 @@
 | **Select Modules**            |![Waiting](https://img.shields.io/badge/-Waiting-grey)        | 26 Sept    | 27 Sept  |
 | **Bid Modules**               |![Waiting](https://img.shields.io/badge/-Waiting-grey)        | 27 Sept    | 29 Sept  |
 | **Remove Modules from  Cart** |![Waiting](https://img.shields.io/badge/-Waiting-grey)        | 30 Sept    | 2 Oct    |
-| **Clearing Logic (this week presentation) shld be put in next sprint**            |![Waiting](https://img.shields.io/badge/-Waiting-grey)        | 3 Oct      | 6 Oct    |
+| **Clearing Logic**            |![Waiting](https://img.shields.io/badge/-Waiting-grey)        | 3 Oct      | 6 Oct    |
 
 #### Sprint 3
 | Name                          | Status | Start Date | End Date |
