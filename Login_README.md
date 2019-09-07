@@ -3,8 +3,8 @@
 
 | Stage        | Status                                                 | Planned Duration  | Changes |
 | ------------ | ------------------------------------------------------ | ----------------- | ------- |
-| PRD          | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 1 Sept- 6 Sept    |         |
-| Developement | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 9 Sept - 10 Sept  |         |
+| PRD          | ![Done](https://img.shields.io/badge/-Done-grey)   | 1 Sept- 6 Sept    |         |
+| Development | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 9 Sept - 10 Sept  |         |
 | QA           | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 11 Sept - 11 Sept |         |
 | UAT          | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 12 Sept - 12 Sept |         |
 | Release      | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 13 Sept - 13 Sept |         |
@@ -13,11 +13,21 @@
 ### Task
 | Name | Status | Start Date | End Date | Developer 1 | Developer 2 | QA |
 | - | - | - | - | - | - | - |
-| [Login] Logo | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  | Xin Pin | Nicolas |  |
-| [Login] Username and Password fields | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  | Trevor | Xuan Lin |  |
-| [Login] Submit button | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  | Trevor | Xuan Lin |  |
-| [Login] Authentication API | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  | Xin Pin | Nicolas |  |
-| [Login] Implement Authentication API | ![Waiting](https://img.shields.io/badge/-Waiting-grey) |  |  | Jason | Nicolas |  |
+| [Login] Create Test Plan| ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 1 Sept | 3 Sept |  |  |  
+| [Login] Create Test Cases| ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 3 Sept | 5 Sept |  |  | 
+| [Login] Design Login Mockups| ![Done](https://img.shields.io/badge/-Done-grey) | 3 Sept | 5 Sept |  |  | 
+| [Login] Logo | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 9 Sept | 9 Sept | Xin Pin | Nicolas |  |
+| [Login] Username and Password fields | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 9 Sept | 9 Sept | Trevor | Xuan Lin |  |
+| [Login] Remember Me checkbox | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 9 Sept | 9 Sept | Trevor | Xuan Lin |  |
+| [Login] Error message | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 9 Sept | 9 Sept | Trevor | Xuan Lin |  |
+| [Login] Submit button | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 9 Sept | 9 Sept | Trevor | Xuan Lin |  |
+| [Login] Connect to sample data | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 9 Sept | 9 Sept | Trevor | Xuan Lin |  |
+| [Login] Authentication API | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 10 Sept | 10 Sept | Xin Pin | Nicolas |  |
+| [Login] Implement Authentication API | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 10 Sept | 10 Sept | Jason | Nicolas |  |
+| [Login] Run Test cases | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 11 Sept | 11 Sept |  |  |  |
+| [Login] Resolve bugs | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 11 Sept | 11 Sept | Jason | Nicolas |  |
+| [Login] UAT | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 12 Sept | 12 Sept |  |  |  |
+| [Login] Resolve bugs | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 12 Sept | 12 Sept | Jason | Nicolas |  |
 
 ### Bug
 | Name | Status | Start Date | End Date | Developer 1 | Developer 2 | QA |
@@ -53,12 +63,12 @@ For login page:
 <br><img src="icons\MUbios.png" width="100">   
 
 ## Flow
-1. User enters username and password into login page.
+1. User enters userid and password into login page.
 2. User checks "Remember me" checkbox.
 3. User clicks "Login" button.
-   1. The username and password is authenticated through JSON web service.
+   1. The userid and password is authenticated through JSON web service.
    2. If unsuccessful, show "Please enter a valid username and password.".
-   3. If successful, store username in session variable and direct to landing page.
+   3. If successful, store userid in session variable and direct to landing page.
 
 
 ## Assignments
