@@ -21,13 +21,14 @@
 | [Login] Remember Me checkbox | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 9 Sept | 9 Sept | Trevor | Xuan Lin |  |
 | [Login] Error message | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 9 Sept | 9 Sept | Trevor | Xuan Lin |  |
 | [Login] Submit button | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 9 Sept | 9 Sept | Trevor | Xuan Lin |  |
-| [Login] Connect to sample data | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 9 Sept | 9 Sept | Trevor | Xuan Lin |  |
-| [Login] Authentication API | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 10 Sept | 10 Sept | Xin Pin | Nicolas |  |
-| [Login] Implement Authentication API | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 10 Sept | 10 Sept | Jason | Nicolas |  |
-| [Login] Run Test cases | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 11 Sept | 11 Sept |  |  |  |
-| [Login] Resolve bugs | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 11 Sept | 11 Sept | Jason | Nicolas |  |
-| [Login] UAT | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 12 Sept | 12 Sept |  |  |  |
-| [Login] Resolve bugs | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 12 Sept | 12 Sept | Jason | Nicolas |  |
+| [Login] Connect to sample data | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 10 Sept | 10 Sept | Trevor | Xuan Lin |  |
+| [Login] Authentication API | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 11 Sept | 11 Sept | Xin Pin | Nicolas |  |
+| [Login] Implement Authentication API | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 12 Sept | 12 Sept | Jason | Nicolas |  |
+| [Login] Implement Bootstrap | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 14 Sept | 15 Sept | Jason | Nicolas |  |
+| [Login] Implement Laravel | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 15 Sept | 15 Sept | Jason | Nicolas |  |
+| [Login] Run Test cases | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 15 Sept | 15 Sept |  |  |  |
+| [Login] Resolve bugs | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 15 Sept | 15 Sept | Jason | Nicolas |  |
+
 
 ### Bug
 | Name | Status | Start Date | End Date | Developer 1 | Developer 2 | QA |
