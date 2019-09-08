@@ -47,7 +47,19 @@
     - (inference) An admin will log in into a dashboard
     - Failure will follow the same case as Student
 
-## Data Flow
+## Flow
+1. User enters email ID and password into login page.
+   1. Authenticate email ID through JSON web service 
+      1. Upon clicking the login button, if the email ID field is empty: display “Please enter a email ID
+      2. If the email ID field is NOT empty, check if it exists in the database
+         1. If it does not exists: display “Please enter a valid email ID"
+   2. Authenticate password through JSON web service
+      1. Upon clicking the login button, if the password field is empty: display “Please enter a password”
+      2. If the email ID and password field is NOT empty, check if the password entered correspond to the email ID in the database 
+         1. If either field does not correspond: display “Incorrect username/password entered”
+         2. If it corresponds, store userid in session variable and direct to landing page with display of the balance e$ along with “Login successfully”
+2. User checks "Remember me" checkbox
+
 
 ## Mockup
 Login Page:<br>
@@ -63,18 +75,3 @@ For login page:
 <br>For all other pages:   
 <br><img src="icons\MUbios.png" width="100">   
 
-## Flow
-1. User enters userid and password into login page.
-2. User checks "Remember me" checkbox.
-3. User clicks "Login" button.
-   1. The userid and password is authenticated through JSON web service.
-   2. If unsuccessful, show "Please enter a valid username and password.".
-   3. If successful, store userid in session variable and direct to landing page.
-
-
-## Assignments
-- Project Manager:
-- Pair programming:
-  | Driver | Observer |
-  | - | - |
-  
