@@ -31,9 +31,9 @@
 
 
 ### Bug
-| Name | Status | Start Date | End Date | Developer 1 | Developer 2 | QA |
-| - | - | - | - | - | - | - |
-|  |  |  |  |  |  |  |
+| Name | Status | Start Date | End Date | Developer 1 | Developer 2 | QA  |
+| ---- | ------ | ---------- | -------- | ----------- | ----------- | --- |
+|      |        |            |          |             |             |     |
 
 ## Background
 - Login
