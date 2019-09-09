@@ -2,7 +2,7 @@
 ## Timeline
 
 | Stage        | Status                                                 | Planned Duration  | Changes |
-| ------------ | ------------------------------------------------------ | ----------------- | ------- |
+| ------------ | V------------------------------------------------------ | ----------------- | ------- |
 | PRD          | ![Done](https://img.shields.io/badge/-Done-grey)   | 1 Sept- 6 Sept    |         |
 | Development | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 9 Sept - 10 Sept  |         |
 | QA           | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 11 Sept - 11 Sept |         |
@@ -15,15 +15,18 @@
 | - | - | - | - | - | - | - |
 | [Login] Create Test Plan| ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 1 Sept | 3 Sept |  |  |  
 | [Login] Create Test Cases| ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 3 Sept | 5 Sept |  |  | 
-| [Login] Design Login Mockups| ![Done](https://img.shields.io/badge/-Done-grey) | 3 Sept | 5 Sept |  |  | 
+| [Login and Dashboard] Design Mockups| ![Done](https://img.shields.io/badge/-Done-green) | 3 Sept | 5 Sept |  |  | 
 | [Login] Logo | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 9 Sept | 9 Sept | Xin Pin | Nicolas |  |
 | [Login] Username and Password fields | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 9 Sept | 9 Sept | Trevor | Xuan Lin |  |
 | [Login] Remember Me checkbox | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 9 Sept | 9 Sept | Trevor | Xuan Lin |  |
 | [Login] Error message | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 9 Sept | 9 Sept | Trevor | Xuan Lin |  |
 | [Login] Submit button | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 9 Sept | 9 Sept | Trevor | Xuan Lin |  |
-| [Login] Connect to sample data | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 10 Sept | 10 Sept | Trevor | Xuan Lin |  |
 | [Login] Authentication API | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 11 Sept | 11 Sept | Xin Pin | Nicolas |  |
 | [Login] Implement Authentication API | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 12 Sept | 12 Sept | Jason | Nicolas |  |
+| [Dashboard] Create Test Cases| ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 3 Sept | 5 Sept |  |  | 
+| [Dashboard] Calendar| ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 3 Sept | 5 Sept |  |  | 
+| [Dashboard] Create Test Cases| ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 3 Sept | 5 Sept |  |  | 
+| [Dashboard] Create Test Cases| ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 3 Sept | 5 Sept |  |  | 
 | [Login] Implement Bootstrap | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 14 Sept | 15 Sept | Jason | Nicolas |  |
 | [Login] Implement Laravel | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 15 Sept | 15 Sept | Jason | Nicolas |  |
 | [Login] Run Test cases | ![Waiting](https://img.shields.io/badge/-Waiting-grey) | 15 Sept | 15 Sept |  |  |  |

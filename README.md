@@ -2,15 +2,15 @@
 #### Preparation
 | Name                    | Status | Start Date | End Date |
 | ----------------------- | ------ | ---------- | -------- |
-| **Review Requirements**       |![Done](https://img.shields.io/badge/-Done-grey)|   28 Aug   |  28 Aug  |
-| **Plan Schedule**             |![Done](https://img.shields.io/badge/-Done-grey)|   30 Aug   |  2 Sept  |
-| **Assign Roles and Responsibilities**|![Done](https://img.shields.io/badge/-Done-grey)|   2 Sept   |  2 Sept  |
+| **Review Requirements**       |![Done](https://img.shields.io/badge/-Done-green)|   28 Aug   |  28 Aug  |
+| **Plan Schedule**             |![Done](https://img.shields.io/badge/-Done-green)|   30 Aug   |  2 Sept  |
+| **Assign Roles and Responsibilities**|![Done](https://img.shields.io/badge/-Done-green)|   2 Sept   |  2 Sept  |
 | **Create Metrics Document**   |![Waiting](https://img.shields.io/badge/-Waiting-grey)|  3 Sept   | 6 Sept |
 
 #### Sprint 1
 | Name                    | Status | Start Date | End Date |
 | ----------------------- | ------ | ---------- | -------- |
-| **Assign Pair Programming** |![Done](https://img.shields.io/badge/-Done-grey)           | 9 Sept     | 9 Sept   |
+| **Assign Pair Programming** |![Done](https://img.shields.io/badge/-Done-green)           | 9 Sept     | 9 Sept   |
 | **Login UI**            |![Waiting](https://img.shields.io/badge/-Waiting-grey)        | 9 Sept     | 10 Sept  |
 | **Login Backend**       |![Waiting](https://img.shields.io/badge/-Waiting-grey)        | 10 Sept    | 12 Sept  |
 | **Draft Dashboard UI**  |![Waiting](https://img.shields.io/badge/-Waiting-grey)        | 13 Sept    | 14 Sept  |
