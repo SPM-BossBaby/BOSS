@@ -1,0 +1,824 @@
+{
+    "status": "success",
+    "course": [
+        {
+            "course": "ECON001",
+            "school": "SOE",
+            "title": "Microeconomics",
+            "description": "Microeconomics is about economics in smaller scale (e.g. firm-scale)",
+            "exam date": "20131101",
+            "exam start": "1530",
+            "exam end": "1845"
+        },
+        {
+            "course": "ECON002",
+            "school": "SOE",
+            "title": "Macroeconomics",
+            "description": "You don't learn about excel macros here.",
+            "exam date": "20131101",
+            "exam start": "830",
+            "exam end": "1145"
+        },
+        {
+            "course": "IS100",
+            "school": "SIS",
+            "title": "Calculus",
+            "description": "The basic objective of Calculus is to relate small-scale (differential) quantities to large-scale (integrated) quantities. This is accomplished by means of the Fundamental Theorem of Calculus. Students should demonstrate an understanding of the integral as a cumulative sum, of the derivative as a rate of change, and of the inverse relationship between integration and differentiation.",
+            "exam date": "20131119",
+            "exam start": "830",
+            "exam end": "1145"
+        },
+        {
+            "course": "IS101",
+            "school": "SIS",
+            "title": "Advanced Calculus",
+            "description": "This is a second course on calculus. It is more advanced definitely.",
+            "exam date": "20131118",
+            "exam start": "1200",
+            "exam end": "1515"
+        },
+        {
+            "course": "IS102",
+            "school": "SIS",
+            "title": "Java programming",
+            "description": "This course teaches you on Java programming. I love Java definitely.",
+            "exam date": "20131117",
+            "exam start": "1530",
+            "exam end": "1845"
+        },
+        {
+            "course": "IS103",
+            "school": "SIS",
+            "title": "Web Programming",
+            "description": "JSP, Servlets using Tomcat",
+            "exam date": "20131116",
+            "exam start": "830",
+            "exam end": "1145"
+        },
+        {
+            "course": "IS104",
+            "school": "SIS",
+            "title": "Advanced Programming",
+            "description": "How to write code that nobody can understand",
+            "exam date": "20131115",
+            "exam start": "1200",
+            "exam end": "1515"
+        },
+        {
+            "course": "IS105",
+            "school": "SIS",
+            "title": "Data Structures",
+            "description": "Data structure is a particular way of storing and organizing data in a computer so that it can be used efficiently. Arrays, Lists, Stacks and Trees will be covered.",
+            "exam date": "20131114",
+            "exam start": "1530",
+            "exam end": "1845"
+        },
+        {
+            "course": "IS106",
+            "school": "SIS",
+            "title": "Database Modeling & Design",
+            "description": "Data modeling in software engineering is the process of creating a data model by applying formal data model descriptions using data modeling techniques.",
+            "exam date": "20131113",
+            "exam start": "830",
+            "exam end": "1145"
+        },
+        {
+            "course": "IS107",
+            "school": "SIS",
+            "title": "IT Outsourcing",
+            "description": "This course teaches you on how to outsource your programming projects to others.",
+            "exam date": "20131112",
+            "exam start": "1200",
+            "exam end": "1515"
+        },
+        {
+            "course": "IS108",
+            "school": "SIS",
+            "title": "Organization Behaviour",
+            "description": "Organizational Behavior (OB) is the study and application of knowledge about how people, individuals, and groups act in organizations.",
+            "exam date": "20131111",
+            "exam start": "1530",
+            "exam end": "1845"
+        },
+        {
+            "course": "IS109",
+            "school": "SIS",
+            "title": "Cloud Computing",
+            "description": "Cloud computing is Internet-based computing, whereby shared resources, software and information are provided to computers and other devices on-demand, like the electricity grid.",
+            "exam date": "20131110",
+            "exam start": "830",
+            "exam end": "1145"
+        },
+        {
+            "course": "IS200",
+            "school": "SIS",
+            "title": "Final Touch",
+            "description": "Learn how eat, dress and talk.",
+            "exam date": "20131109",
+            "exam start": "1200",
+            "exam end": "1515"
+        },
+        {
+            "course": "IS201",
+            "school": "SIS",
+            "title": "Fun with Shell Programming",
+            "description": "Shell scripts are a fundamental part of the UNIX and Linux programming environment.",
+            "exam date": "20131108",
+            "exam start": "1530",
+            "exam end": "1845"
+        },
+        {
+            "course": "IS202",
+            "school": "SIS",
+            "title": "Enterprise integration",
+            "description": "Enterprise integration is a technical field of Enterprise Architecture, which focused on the study of things like system interconnection, electronic data interchange, product data exchange and distributed computing environments, and it's possible other solutions.[1",
+            "exam date": "20131107",
+            "exam start": "830",
+            "exam end": "1145"
+        },
+        {
+            "course": "IS203",
+            "school": "SIS",
+            "title": "Software Engineering",
+            "description": "The Sleepless Era.",
+            "exam date": "20131106",
+            "exam start": "1200",
+            "exam end": "1515"
+        },
+        {
+            "course": "IS204",
+            "school": "SIS",
+            "title": "Database System Administration",
+            "description": "Database administration is a complex, often thankless chore.",
+            "exam date": "20131105",
+            "exam start": "1530",
+            "exam end": "1845"
+        },
+        {
+            "course": "IS205",
+            "school": "SIS",
+            "title": "All Talk, No Action",
+            "description": "The easiest course of all. We will sit around and talk.",
+            "exam date": "20131104",
+            "exam start": "830",
+            "exam end": "1145"
+        },
+        {
+            "course": "IS206",
+            "school": "SIS",
+            "title": "Operation Research",
+            "description": "Operations research, also known as operational research, is an interdisciplinary branch of applied mathematics and formal science that uses advanced analytical methods such as mathematical modeling, statistical analysis, and mathematical optimization to arrive at optimal or near-optimal solutions to complex decision-making problems.",
+            "exam date": "20131103",
+            "exam start": "1200",
+            "exam end": "1515"
+        },
+        {
+            "course": "IS207",
+            "school": "SIS",
+            "title": "GUI Bloopers",
+            "description": "Common User Interface Design Don'ts and Dos",
+            "exam date": "20131103",
+            "exam start": "1530",
+            "exam end": "1845"
+        },
+        {
+            "course": "IS208",
+            "school": "SIS",
+            "title": "Artifical Intelligence",
+            "description": "The science and engineering of making intelligent machine",
+            "exam date": "20131103",
+            "exam start": "830",
+            "exam end": "1145"
+        },
+        {
+            "course": "IS209",
+            "school": "SIS",
+            "title": "Information Storage and Management",
+            "description": "Information storage and management (ISM) - once a relatively straightforward operation -has developed into a highly sophisticated pillar of information technology, requiring proven technical expertise.",
+            "exam date": "20131102",
+            "exam start": "1200",
+            "exam end": "1515"
+        },
+        {
+            "course": "MGMT001",
+            "school": "SOB",
+            "title": "Business,Government, and Society",
+            "description": "learn the interrelation amongst the three",
+            "exam date": "20131102",
+            "exam start": "830",
+            "exam end": "1145"
+        },
+        {
+            "course": "MGMT002",
+            "school": "SOB",
+            "title": "Technology and World Change",
+            "description": "As technology changes, so does the world",
+            "exam date": "20131101",
+            "exam start": "1200",
+            "exam end": "1515"
+        }
+    ],
+    "section": [
+        {
+            "course": "ECON001",
+            "section": "S1",
+            "day": "Thursday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "John KHOO",
+            "venue": "Seminar Rm 2-34",
+            "size": 10
+        },
+        {
+            "course": "ECON002",
+            "section": "S1",
+            "day": "Friday",
+            "start": "1530",
+            "end": "1845",
+            "instructor": "Andy KHOO",
+            "venue": "Seminar Rm 2-35",
+            "size": 10
+        },
+        {
+            "course": "IS100",
+            "section": "S1",
+            "day": "Monday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Albert KHOO",
+            "venue": "Seminar Rm 2-1",
+            "size": 10
+        },
+        {
+            "course": "IS100",
+            "section": "S2",
+            "day": "Tuesday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Billy KHOO",
+            "venue": "Seminar Rm 2-2",
+            "size": 10
+        },
+        {
+            "course": "IS101",
+            "section": "S1",
+            "day": "Wednesday",
+            "start": "1530",
+            "end": "1845",
+            "instructor": "Cheri KHOO",
+            "venue": "Seminar Rm 2-3",
+            "size": 10
+        },
+        {
+            "course": "IS101",
+            "section": "S2",
+            "day": "Thursday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Daniel KHOO",
+            "venue": "Seminar Rm 2-4",
+            "size": 10
+        },
+        {
+            "course": "IS101",
+            "section": "S3",
+            "day": "Friday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Ernest KHOO",
+            "venue": "Seminar Rm 2-5",
+            "size": 10
+        },
+        {
+            "course": "IS102",
+            "section": "S1",
+            "day": "Monday",
+            "start": "1530",
+            "end": "1845",
+            "instructor": "Felicia KHOO",
+            "venue": "Seminar Rm 2-6",
+            "size": 10
+        },
+        {
+            "course": "IS102",
+            "section": "S2",
+            "day": "Tuesday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Gerald KHOO",
+            "venue": "Seminar Rm 2-7",
+            "size": 10
+        },
+        {
+            "course": "IS102",
+            "section": "S3",
+            "day": "Wednesday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Henry KHOO",
+            "venue": "Seminar Rm 2-8",
+            "size": 10
+        },
+        {
+            "course": "IS103",
+            "section": "S1",
+            "day": "Thursday",
+            "start": "1530",
+            "end": "1845",
+            "instructor": "Ivy KHOO",
+            "venue": "Seminar Rm 2-9",
+            "size": 10
+        },
+        {
+            "course": "IS103",
+            "section": "S2",
+            "day": "Friday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Jason KHOO",
+            "venue": "Seminar Rm 2-10",
+            "size": 10
+        },
+        {
+            "course": "IS103",
+            "section": "S3",
+            "day": "Monday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Kat KHOO",
+            "venue": "Seminar Rm 2-11",
+            "size": 10
+        },
+        {
+            "course": "IS104",
+            "section": "S1",
+            "day": "Tuesday",
+            "start": "1530",
+            "end": "1845",
+            "instructor": "Linn KHOO",
+            "venue": "Seminar Rm 2-12",
+            "size": 10
+        },
+        {
+            "course": "IS104",
+            "section": "S2",
+            "day": "Monday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Michael KHOO",
+            "venue": "Seminar Rm 2-13",
+            "size": 10
+        },
+        {
+            "course": "IS105",
+            "section": "S1",
+            "day": "Thursday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Nathaniel KHOO",
+            "venue": "Seminar Rm 2-14",
+            "size": 10
+        },
+        {
+            "course": "IS105",
+            "section": "S2",
+            "day": "Friday",
+            "start": "1530",
+            "end": "1845",
+            "instructor": "Oreilly KHOO",
+            "venue": "Seminar Rm 2-15",
+            "size": 10
+        },
+        {
+            "course": "IS106",
+            "section": "S1",
+            "day": "Monday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Peter KHOO",
+            "venue": "Seminar Rm 2-16",
+            "size": 10
+        },
+        {
+            "course": "IS106",
+            "section": "S2",
+            "day": "Tuesday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Queen KHOO",
+            "venue": "Seminar Rm 2-17",
+            "size": 10
+        },
+        {
+            "course": "IS107",
+            "section": "S1",
+            "day": "Wednesday",
+            "start": "1530",
+            "end": "1845",
+            "instructor": "Ray KHOO",
+            "venue": "Seminar Rm 2-18",
+            "size": 1
+        },
+        {
+            "course": "IS107",
+            "section": "S2",
+            "day": "Thursday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Simon KHOO",
+            "venue": "Seminar Rm 2-19",
+            "size": 10
+        },
+        {
+            "course": "IS108",
+            "section": "S1",
+            "day": "Friday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Tim KHOO",
+            "venue": "Seminar Rm 2-20",
+            "size": 10
+        },
+        {
+            "course": "IS109",
+            "section": "S1",
+            "day": "Tuesday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Vincent KHOO",
+            "venue": "Seminar Rm 2-22",
+            "size": 10
+        },
+        {
+            "course": "IS109",
+            "section": "S2",
+            "day": "Wednesday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Winnie KHOO",
+            "venue": "Seminar Rm 2-23",
+            "size": 10
+        },
+        {
+            "course": "IS200",
+            "section": "S1",
+            "day": "Thursday",
+            "start": "1530",
+            "end": "1845",
+            "instructor": "Xtra KHOO",
+            "venue": "Seminar Rm 2-24",
+            "size": 10
+        },
+        {
+            "course": "IS201",
+            "section": "S1",
+            "day": "Friday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Yale KHOO",
+            "venue": "Seminar Rm 2-25",
+            "size": 10
+        },
+        {
+            "course": "IS202",
+            "section": "S1",
+            "day": "Monday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Zen KHOO",
+            "venue": "Seminar Rm 2-26",
+            "size": 10
+        },
+        {
+            "course": "IS203",
+            "section": "S1",
+            "day": "Tuesday",
+            "start": "1530",
+            "end": "1845",
+            "instructor": "Anderson KHOO",
+            "venue": "Seminar Rm 2-27",
+            "size": 10
+        },
+        {
+            "course": "IS204",
+            "section": "S1",
+            "day": "Wednesday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Bing KHOO",
+            "venue": "Seminar Rm 2-28",
+            "size": 10
+        },
+        {
+            "course": "IS205",
+            "section": "S1",
+            "day": "Thursday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Carlo KHOO",
+            "venue": "Seminar Rm 2-29",
+            "size": 10
+        },
+        {
+            "course": "IS206",
+            "section": "S1",
+            "day": "Friday",
+            "start": "1530",
+            "end": "1845",
+            "instructor": "Dickson KHOO",
+            "venue": "Seminar Rm 2-30",
+            "size": 10
+        },
+        {
+            "course": "IS207",
+            "section": "S1",
+            "day": "Monday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Edmund KHOO",
+            "venue": "Seminar Rm 2-31",
+            "size": 10
+        },
+        {
+            "course": "IS208",
+            "section": "S1",
+            "day": "Tuesday",
+            "start": "1200",
+            "end": "1515",
+            "instructor": "Febrice KHOO",
+            "venue": "Seminar Rm 2-32",
+            "size": 10
+        },
+        {
+            "course": "MGMT001",
+            "section": "S1",
+            "day": "Wednesday",
+            "start": "830",
+            "end": "1145",
+            "instructor": "Gavin KHOO",
+            "venue": "Seminar Rm 2-33",
+            "size": 10
+        },
+        {
+            "course": "MGMT002",
+            "section": "S1",
+            "day": "Wednesday",
+            "start": "1530",
+            "end": "1845",
+            "instructor": "Bob KHOO",
+            "venue": "Seminar Rm 2-37",
+            "size": 10
+        }
+    ],
+    "student": [
+        {
+            "userid": "amy.ng.2009",
+            "password": "qwerty128",
+            "name": "Amy NG",
+            "school": "SIS",
+            "edollar": 177.0
+        },
+        {
+            "userid": "ben.ng.2009",
+            "password": "qwerty129",
+            "name": "Ben NG",
+            "school": "SIS",
+            "edollar": 176.0
+        },
+        {
+            "userid": "calvin.ng.2009",
+            "password": "qwerty130",
+            "name": "Calvin NG",
+            "school": "SIS",
+            "edollar": 200.0
+        },
+        {
+            "userid": "dawn.ng.2009",
+            "password": "qwerty131",
+            "name": "Dawn NG",
+            "school": "SIS",
+            "edollar": 200.0
+        },
+        {
+            "userid": "eddy.ng.2009",
+            "password": "qwerty132",
+            "name": "Eddy NG",
+            "school": "SIS",
+            "edollar": 200.0
+        },
+        {
+            "userid": "fred.ng.2009",
+            "password": "qwerty133",
+            "name": "Fred NG",
+            "school": "SIS",
+            "edollar": 200.0
+        },
+        {
+            "userid": "gary.ng.2009",
+            "password": "qwerty134",
+            "name": "Gary NG",
+            "school": "SIS",
+            "edollar": 200.0
+        },
+        {
+            "userid": "harry.ng.2009",
+            "password": "qwerty135",
+            "name": "Harry NG",
+            "school": "SIS",
+            "edollar": 200.0
+        },
+        {
+            "userid": "ian.ng.2009",
+            "password": "qwerty136",
+            "name": "Ian NG",
+            "school": "SIS",
+            "edollar": 200.0
+        },
+        {
+            "userid": "jerry.ng.2009",
+            "password": "qwerty137",
+            "name": "Jerry NG",
+            "school": "SIS",
+            "edollar": 200.0
+        },
+        {
+            "userid": "kelly.ng.2009",
+            "password": "qwerty138",
+            "name": "Kelly NG",
+            "school": "SIS",
+            "edollar": 200.0
+        },
+        {
+            "userid": "larry.ng.2009",
+            "password": "qwerty139",
+            "name": "Larry NG",
+            "school": "SIS",
+            "edollar": 200.0
+        },
+        {
+            "userid": "maggie.ng.2009",
+            "password": "qwerty140",
+            "name": "Maggie NG",
+            "school": "SIS",
+            "edollar": 200.0
+        },
+        {
+            "userid": "neilson.ng.2009",
+            "password": "qwerty141",
+            "name": "Neilson NG",
+            "school": "SIS",
+            "edollar": 200.0
+        },
+        {
+            "userid": "olivia.ng.2009",
+            "password": "qwerty142",
+            "name": "Olivia NG",
+            "school": "SIS",
+            "edollar": 200.0
+        },
+        {
+            "userid": "parker.ng.2009",
+            "password": "qwerty143",
+            "name": "Parker NG",
+            "school": "SOE",
+            "edollar": 200.0
+        },
+        {
+            "userid": "quiten.ng.2009",
+            "password": "qwerty144",
+            "name": "Quiten NG",
+            "school": "SOE",
+            "edollar": 200.0
+        },
+        {
+            "userid": "ricky.ng.2009",
+            "password": "qwerty145",
+            "name": "Ricky NG",
+            "school": "SOE",
+            "edollar": 200.0
+        },
+        {
+            "userid": "steven.ng.2009",
+            "password": "qwerty146",
+            "name": "Steven NG",
+            "school": "SOE",
+            "edollar": 200.0
+        },
+        {
+            "userid": "timothy.ng.2009",
+            "password": "qwerty147",
+            "name": "Timothy NG",
+            "school": "SOE",
+            "edollar": 200.0
+        },
+        {
+            "userid": "ursala.ng.2009",
+            "password": "qwerty148",
+            "name": "Ursala NG",
+            "school": "SOE",
+            "edollar": 200.0
+        },
+        {
+            "userid": "valarie.ng.2009",
+            "password": "qwerty149",
+            "name": "Valarie NG",
+            "school": "SOB",
+            "edollar": 200.0
+        },
+        {
+            "userid": "winston.ng.2009",
+            "password": "qwerty150",
+            "name": "Winston NG",
+            "school": "SOB",
+            "edollar": 200.0
+        },
+        {
+            "userid": "xavier.ng.2009",
+            "password": "qwerty151",
+            "name": "Xavier NG",
+            "school": "SOB",
+            "edollar": 200.0
+        },
+        {
+            "userid": "yasir.ng.2009",
+            "password": "qwerty152",
+            "name": "Yasir NG",
+            "school": "SOB",
+            "edollar": 200.0
+        },
+        {
+            "userid": "zac.ng.2009",
+            "password": "qwerty153",
+            "name": "Zac NG",
+            "school": "SOB",
+            "edollar": 200.0
+        }
+    ],
+    "prerequisite": [
+        {
+            "course": "IS101",
+            "prerequisite": "IS100"
+        },
+        {
+            "course": "IS103",
+            "prerequisite": "IS102"
+        },
+        {
+            "course": "IS104",
+            "prerequisite": "IS103"
+        },
+        {
+            "course": "IS109",
+            "prerequisite": "IS102"
+        },
+        {
+            "course": "IS203",
+            "prerequisite": "IS103"
+        },
+        {
+            "course": "IS203",
+            "prerequisite": "IS106"
+        },
+        {
+            "course": "IS204",
+            "prerequisite": "IS106"
+        },
+        {
+            "course": "IS209",
+            "prerequisite": "IS106"
+        }
+    ],
+    "bid": [
+        {
+            "userid": "ben.ng.2009",
+            "amount": 24.0,
+            "course": "IS107",
+            "section": "S1"
+        },
+        {
+            "userid": "amy.ng.2009",
+            "amount": 23.0,
+            "course": "IS107",
+            "section": "S1"
+        }
+    ],
+    "completed-course": [
+        {
+            "userid": "amy.ng.2009",
+            "course": "IS100"
+        },
+        {
+            "userid": "gary.ng.2009",
+            "course": "IS100"
+        },
+        {
+            "userid": "ben.ng.2009",
+            "course": "IS102"
+        },
+        {
+            "userid": "ben.ng.2009",
+            "course": "IS103"
+        }
+    ],
+    "section-student": []
+}
