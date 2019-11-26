@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+html, body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    height: 100vh;
+    max-height: 100vh!important;
+    /* background-color: #E0D5CC; */
+}
+
+#searchCourse, #searchSection {
+    width: 40%;
+    font-size: 16px; /* Increase font-size */
+    padding: 10px 20px; /* Add some padding */
+    border: 1px solid #ddd; /* Add a grey border */
+  }
+
+.main-section {
+    margin: 0 auto;
+    margin-top: 200px;
+    padding: 0;
+}
+
+.modal-content {
+    background-color: 'ffffff';
+    opacity: 0.95;
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+}
+
+.navbar {
+    /* border-bottom: 0.8px gray solid; */
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.navbar-nav {
+    padding-right: 15px;
+}
+
+.d-inline {
+    padding-left: 20px;
+}
+
+.nav-tabs{
+    background: transparent;
+}
+
+#tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: black;
+    background-color: transparent;
+    border-color: transparent transparent #f3f3f3;
+    border-bottom: 4px solid !important;
+    font-size: 20px;
+    font-weight: bold;
+    vertical-align: middle;
+}
+.nav-tabs .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    color: gray;
+    font-size: 20px;
+}
+
+.fixed-top {
+    position: relative;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#overview-container {
+    max-width: 50%;
+    width: 50%;
+    position: relative;
+}
+
+small {
+    color: red;
+}
+
+.btn {
+    border: gray 2px solid;
+    width: auto;
+    background-color: rgb(177, 177, 177);
+    font-size: 16px;
+    opacity: 1;
+}
+
+.btn-warning {
+    color: #856404;
+    background-color: #fff3cd;
+    border: 2px solid;
+    width: auto;
+    font-size: 16px;
+    padding: 8px;
+    opacity: 1;
+}
+
+.btn-danger {
+    color: #721c24;
+    background-color: #f8d7da;
+    border: 2px solid;
+    width: auto;
+    font-size: 16px;
+    padding: 8px;
+    opacity: 1;
+}
+
+.btn:hover, .btn:focus {
+    background-color: #53596b!important;
+    color: white;
+}
+
+#availableCourse {
+    max-height: 45vh;
+    overflow: auto;
+}
+
+.table.p-0.m-0 > thead {
+    height:30px;
+    color:white;
+}
+
+.table.p-0.m-0 > tbody > tr:hover {
+    background-color: rgba(0,0,0,.05);
+}
+
+.table.p-0.m-0 > tbody > tr> td,
+.table.p-0.m-0 > thead > tr >th {
+    padding-top: 0;
+    padding-bottom: 0;
+    font-size: 14px;
+}
+
+
+#biddingcart {
+    max-height: 14.6vh;
+    overflow: auto;
+}
+
+#calendarbody {
+    /* min-height: 73vh;
+    height: 73vh; */
+    max-height: 73vh;
+}
+
+.fc-toolbar.fc-header-toolbar {
+    margin-bottom: 0;
+}
+
+#nav-tab{
+    position: sticky;
+    top: 0;
+}
+
+#logout {
+    margin-left: 10px;
+}
+
+#balance {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    font-weight: bold;
+}
