@@ -8,7 +8,7 @@
             "description": "Microeconomics is about economics in smaller scale (e.g. firm-scale)",
             "exam date": "19981101",
             "exam start": "1530",
-            "exam end": "1845"
+            "exam end": ""
         },
         {
             "course": "ECON002",
