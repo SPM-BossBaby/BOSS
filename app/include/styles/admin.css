@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+html, body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    height: 100vh;
+    max-height: 100vh!important;
+}
+
+.min-100 {
+    min-height: 100%;
+}
+
+.navbar {
+    /* border-bottom: 0.8px gray solid; */
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.navbar-nav {
+    padding-right: 15px;
+}
+
+.d-inline {
+    padding-left: 20px;
+}
+
+.nav-tabs{
+    background: transparent;
+}
+
+#tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: black;
+    background-color: transparent;
+    border-color: transparent transparent #f3f3f3;
+    border-bottom: 4px solid !important;
+    font-size: 20px;
+    font-weight: bold;
+}
+.nav-tabs .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    color: gray;
+    font-size: 20px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#overview-container {
+    max-width: 50%;
+    width: 50%;
+    position: relative;
+}
+
+small {
+    color: red;
+}
+
+#endround {
+    margin-top: 5px;
+}
+
+.btn {
+    border: gray 2px solid;
+    width: auto;
+    background-color: rgb(177, 177, 177);
+    font-size: 16px;
+    padding: 8px;
+    opacity: 1;
+}
+
+.btn:hover, .btn:focus {
+    background-color: #53596b!important;
+    color: white;
+}
+
+.loader {
+    margin-bottom: -15px;
+    margin-left: 10px;
+    display: inline-block;
+    border: 5px solid #f3f3f3; /* Light grey */
+    border-top: 5px solid #3498db; /* Blue */
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    animation: spin 2s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
